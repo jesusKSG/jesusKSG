@@ -1,4 +1,4 @@
-<h1 align="center">Hola Jonathan Romero</h1>
+<h1 align="center">Jonathan Romero</h1>
 <h3 align="center">Ta chido esto we</h3>
 
 - 📫 How to reach me **yyony412@gmail.com**
