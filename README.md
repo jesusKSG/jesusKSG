@@ -1,6 +1,10 @@
 <h1 align="center">Jonathan Romero</h1>
 <h3 align="center">Ta chido esto we</h3>
 
+<p align="center">
+  <img src="https://gifs.org.es/gifs/2013/07/gifs-gatitos-suerte.gif" alt="Gatitos de la suerte" width="300">
+</p>
+
 - 📫 How to reach me **yyony412@gmail.com**
 <p align="left">
 </p>
