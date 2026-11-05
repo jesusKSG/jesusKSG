@@ -1,5 +1,5 @@
-<h1 align="center">Jonathan Romero</h1>
-<h3 align="center">Ta chido esto we</h3>
+<h1 align="center">Jonathan de Jesus Romero</h1>
+<h3 align="center">Hacer esto me agrada</h3>
 
 <p align="center">
   <img src="https://gifs.org.es/gifs/2013/07/gifs-gatitos-suerte.gif" alt="Gatitos de la suerte" width="300">
